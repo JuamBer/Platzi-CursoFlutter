@@ -5,7 +5,7 @@ Material realizado en el curso de "Flutter" de [Platzi](https://platzi.com/p/Jua
 ## Tecnologías 🚀
 
 * **Flutter** - [Web Flutter](https://flutter.dev/) 
-* **Dart** S
+* **Dart**
 
 ## Pogramas Utilizados 📌
 
