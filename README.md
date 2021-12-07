@@ -1,12 +1,11 @@
 # PLATZI TRIPS APP
 
+Material realizado en el curso de "Flutter" de [Platzi](https://platzi.com/p/JuamBer/curso/1386-flutter/diploma/detalle/)
+
 ## Tecnologías 🚀
 
-* **FLUTTER** - [Web Flutter](https://flutter.dev/) 
-* **DART**  
-* **FIREBASE**   
-* **IOS**   
-* **ANDROID**  
+* **Flutter** - [Web Flutter](https://flutter.dev/) 
+* **Dart** S
 
 ## Pogramas Utilizados 📌
 
