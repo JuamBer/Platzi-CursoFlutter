@@ -20,3 +20,6 @@
 
 * **Juan Sáez García** -  [Web Personal](https://juamber.com)
 
+## Certificación 🎓
+
+![Certificación](https://github.com/JuamBer/platzi_trips_app/blob/master/img-licencia/diploma-flutter.jpg)
