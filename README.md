@@ -2,6 +2,10 @@
 
 Material realizado en el curso de "Flutter" de [Platzi](https://platzi.com/p/JuamBer/curso/1386-flutter/diploma/detalle/)
 
+## Decarga la App 
+
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.juamber.cursoflutter) 
+
 ## Tecnologías 🚀
 
 * **Flutter** - [Web Flutter](https://flutter.dev/) 
